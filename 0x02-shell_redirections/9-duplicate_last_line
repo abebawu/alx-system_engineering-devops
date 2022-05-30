@@ -1,2 +1,2 @@
-#1/bin/bsh
+#!/bin/bsh
 tail -1 iacta >> iacta
